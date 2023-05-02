@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="400" src="https://uploads-ssl.webflow.com/6304f407692989e8cf58e801/633369cb5313cf4b78208c16__2.gif">
+<img align="center" alt="Coding" width="800" height="300" src="https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif">
 <h1 align="center">Hi 👋, I'm Anshika Singh</h1>
 <h3 align="center">An Analytical and detail-oriented Data Analyst from India. Capable of working with Excel, Python, MySQL and Microsoft Power BI. Passionate about data cleaning, 
 statistical analysis, data visualization, machine learning and strongly interested in working for a company.</h3>
