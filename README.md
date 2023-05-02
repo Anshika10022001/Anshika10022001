@@ -14,7 +14,7 @@ statistical analysis, data visualization, machine learning and strongly interest
 
 - 📫 How to reach me **riya94078@gmail.com**
 
-- 📄 Know about my education and many more [https://drive.google.com/file/d/1UerHmn1WNzJqm3s7CQdsfj66R-rVnNPV/view?usp=share_link](https://drive.google.com/file/d/1UerHmn1WNzJqm3s7CQdsfj66R-rVnNPV/view?usp=share_link)
+- 📄 Know about my education and many more through my resume: [https://drive.google.com/file/d/1UerHmn1WNzJqm3s7CQdsfj66R-rVnNPV/view?usp=share_link](https://drive.google.com/file/d/1UerHmn1WNzJqm3s7CQdsfj66R-rVnNPV/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
