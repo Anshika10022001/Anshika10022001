@@ -6,7 +6,7 @@ statistical analysis, data visualization, machine learning and strongly interest
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika10022001&label=Profile%20views&color=0e75b6&style=flat" alt="anshika10022001" /> </p>
 
-- 🌱 I’m improving myself day by day in **Excel, My SQL, Python and Power BI**
+- 🌱 I’m capable of working with **Excel, My SQL, Python and Power BI** and also improving myself day by day in all of these skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshika10022001?tab=repositories](https://github.com/Anshika10022001?tab=repositories)
 
