@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="900" height="300" src="https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif">
 <h1 align="center">Hi 👋, I'm Anshika Singh</h1>
-<h3 align="center">An Analytical and detail-oriented Data Analyst from India. Capable of working with Excel, Python, MySQL and Microsoft Power BI. Passionate about data cleaning, 
+<h3 align="center"> An Analytical and detail-oriented Data Analyst from Uttarakhand, India. Capable of working with Excel, Python, MySQL and Microsoft Power BI. Passionate about data cleaning, 
 statistical analysis, data visualization, machine learning and strongly interested in working for a company.</h3>
 <img align="right" alt="Coding" width="300"  height="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
@@ -10,7 +10,7 @@ statistical analysis, data visualization, machine learning and strongly interest
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshika10022001?tab=repositories](https://github.com/Anshika10022001?tab=repositories)
 
-- 💬 Ask me about **all my projects**
+- 💬 Ask me anything about **all my projects**
 
 - 📫 How to reach me **riya94078@gmail.com**
 
