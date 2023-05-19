@@ -19,7 +19,6 @@ statistical analysis, data visualization, machine learning and strongly interest
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anshika-singh-ab5595226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika singh" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_anshika10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_anshika10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/riya94078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riya94078" height="30" width="40" /></a>
 </p>
 
