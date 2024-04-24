@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="900" height="300" src="https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif">
 <h1 align="center">Hi 👋, I'm Anshika Singh</h1>
 <h3 align="center"> I'm a driven Data Analyst from Uttarakhand, India, adept in Excel, Python, MySQL, and Microsoft Power BI. I thrive on the intricacies of data, sculpting insights through meticulous cleaning, powerful analysis, and captivating visualizations, all fueled by an unyielding passion for machine learning.</h3>
-<img align="right" alt="Coding" width="300"  height="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="300"  height="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika10022001&label=Profile%20views&color=0e75b6&style=flat" alt="anshika10022001" /> </p>
 
