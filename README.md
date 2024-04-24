@@ -14,7 +14,7 @@ statistical analysis, data visualization, machine learning and strongly interest
 
 - 📫 How to reach me **riya94078@gmail.com**
 
-- 📄 Know about my education and many more through my resume: [Anshika-Singh-Resume](https://drive.google.com/file/d/1xJGgtW7LVLrhwGuxoeubxWQn4VofFezt/view?usp=drive_link)
+- 📄 Know about my education and many more through my resume: [Anshika-Singh-Resume](https://drive.google.com/file/d/1b9GuHMvlLdPFgdmYOnbwG-Y7TUVwaw9d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
