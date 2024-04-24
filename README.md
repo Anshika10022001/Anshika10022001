@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riya94078@gmail.com**
 
-- 📄 Know about my education and many more through my resume: [Anshika-Singh-Resume](https://drive.google.com/file/d/1b9GuHMvlLdPFgdmYOnbwG-Y7TUVwaw9d/view?usp=sharing)
+- 📄 Know about my education and many more through my resume: [Anshika-Singh-Resume](https://drive.google.com/file/d/1LXO-2_q3xI9JAczxrlKvGLRw-XZcTnxL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
